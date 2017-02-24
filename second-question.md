@@ -1,4 +1,6 @@
-![Imgur](http://i.imgur.com/ECyfgWB.jpg)
+
+![Imgur](http://i.imgur.com/r4vHUc5.jpg)
+
 
 This is the answer to "How can I do X?".
 
